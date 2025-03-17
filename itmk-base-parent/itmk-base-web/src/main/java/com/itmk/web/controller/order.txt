@@ -1,0 +1,11 @@
+// 商家更新订单状态
+PUT /api/orders/merchant/status/1
+
+// 骑手更新订单状态
+PUT /api/orders/rider/status/1
+
+// 顾客取消订单
+PUT /api/orders/customer/cancel/1
+
+// 顾客支付订单
+PUT /api/orders/customer/pay/1
